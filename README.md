@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jkosh-a
-- 👀 I’m interested in Javascript
+- 👀 I’m interested in Python and PHP
 - 🌱 I’m currently learning Cyber security
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
